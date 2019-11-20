@@ -1,0 +1,2 @@
+
+To run the project, open Stegy>project>bin>Debug>project.exe

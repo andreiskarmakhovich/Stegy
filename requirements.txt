@@ -1,0 +1,4 @@
+For the program we used:
+1. Visual Studio Community Version 2017-2019
+2. .NET Framework 4.5-4.7.2
+3. Custom library Ionic.Zip (download it from the internet and paste it to the bin folder in the project)
