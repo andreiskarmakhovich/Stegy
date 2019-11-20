@@ -1,0 +1,22 @@
+C:\Users\nikita\source\repos\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\nikita\source\repos\project\project\obj\Debug\project.Form1.resources
+C:\Users\nikita\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\nikita\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\nikita\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\nikita\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\nikita\source\repos\project\project\bin\Debug\project.exe
+C:\Users\nikita\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\nikita\source\repos\project\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\nikita\source\repos\project\project\obj\Debug\project.exe
+C:\Users\nikita\source\repos\project\project\obj\Debug\project.pdb
+C:\Users\Андрей\Downloads\15647NeonBand.RarZipExtractorPro_g3b9h1p9bdemw!App\Rar Zip Extractor Pro\project\project\project\bin\Debug\project.exe.config
+C:\Users\Андрей\Downloads\15647NeonBand.RarZipExtractorPro_g3b9h1p9bdemw!App\Rar Zip Extractor Pro\project\project\project\bin\Debug\project.exe
+C:\Users\Андрей\Downloads\15647NeonBand.RarZipExtractorPro_g3b9h1p9bdemw!App\Rar Zip Extractor Pro\project\project\project\bin\Debug\project.pdb
+C:\Users\Андрей\Downloads\15647NeonBand.RarZipExtractorPro_g3b9h1p9bdemw!App\Rar Zip Extractor Pro\project\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Андрей\Downloads\15647NeonBand.RarZipExtractorPro_g3b9h1p9bdemw!App\Rar Zip Extractor Pro\project\project\project\obj\Debug\project.Form1.resources
+C:\Users\Андрей\Downloads\15647NeonBand.RarZipExtractorPro_g3b9h1p9bdemw!App\Rar Zip Extractor Pro\project\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Андрей\Downloads\15647NeonBand.RarZipExtractorPro_g3b9h1p9bdemw!App\Rar Zip Extractor Pro\project\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Андрей\Downloads\15647NeonBand.RarZipExtractorPro_g3b9h1p9bdemw!App\Rar Zip Extractor Pro\project\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Downloads\15647NeonBand.RarZipExtractorPro_g3b9h1p9bdemw!App\Rar Zip Extractor Pro\project\project\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\Андрей\Downloads\15647NeonBand.RarZipExtractorPro_g3b9h1p9bdemw!App\Rar Zip Extractor Pro\project\project\project\obj\Debug\project.exe
+C:\Users\Андрей\Downloads\15647NeonBand.RarZipExtractorPro_g3b9h1p9bdemw!App\Rar Zip Extractor Pro\project\project\project\obj\Debug\project.pdb
